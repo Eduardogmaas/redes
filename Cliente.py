@@ -2,7 +2,7 @@
 import socket
 
 HOST = "192.168.246.190"
-PORT = 9002
+PORT = 9003
 
 #cria o socket
 
